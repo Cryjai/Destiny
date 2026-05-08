@@ -7,7 +7,7 @@
 *傳統中華命理，現代設計語言。睇清自己，行下一步。*
 
 [![Download APK](https://img.shields.io/badge/Download-APK-gold?style=for-the-badge&logo=android)](https://github.com/Cryjai/Destiny/raw/main/destiny-destiny.apk)
-[![Web App demo for app](https://img.shields.io/badge/Open-Web%20App-purple?style=for-the-badge&logo=googlechrome)](https://cryjai.github.io/Destiny/)
+[![demo only](https://img.shields.io/badge/Open-Web%20App-purple?style=for-the-badge&logo=googlechrome)](https://cryjai.github.io/Destiny/)
 
 </div>
 
