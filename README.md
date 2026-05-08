@@ -56,7 +56,23 @@
 
 ## ✦ 截圖
 
-> *(Coming soon — 歡迎 PR 貢獻截圖)*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Cryjai/Destiny/main/Destiny%20pics/Screenshot_20260508_114805_Destiny.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Cryjai/Destiny/main/Destiny%20pics/Screenshot_20260508_121511_Destiny.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Cryjai/Destiny/main/Destiny%20pics/Screenshot_20260508_121519_Destiny.jpg" width="30%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Cryjai/Destiny/main/Destiny%20pics/Screenshot_20260508_121526_Destiny.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Cryjai/Destiny/main/Destiny%20pics/Screenshot_20260508_121533_Destiny.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Cryjai/Destiny/main/Destiny%20pics/Screenshot_20260508_121539_Destiny.jpg" width="30%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Cryjai/Destiny/main/Destiny%20pics/Screenshot_20260508_121545_Destiny.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Cryjai/Destiny/main/Destiny%20pics/Screenshot_20260508_121551_Destiny.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Cryjai/Destiny/main/Destiny%20pics/Screenshot_20260508_121605_Destiny.jpg" width="30%" />
+</div>
 
 ---
 
