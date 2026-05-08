@@ -40,7 +40,7 @@
 2. 允許「未知來源安裝」
 3. 開啟 App，輸入出生資料即用
 
-### 🌐 Web 版（免安裝）
+### 🌐 Web demo版（免安裝）
 直接開啟：[https://cryjai.github.io/Destiny/](https://cryjai.github.io/Destiny/)
 
 ---
